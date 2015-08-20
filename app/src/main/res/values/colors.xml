@@ -1,0 +1,5 @@
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="touch_overlay">#504040f0</color>
+    <color name="touch_overlay_ripple">#d04040f0</color>
+</resources>
