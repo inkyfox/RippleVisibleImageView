@@ -20,7 +20,7 @@ Use just `android:foreground` attribute for a drawable to show over ImageView.
 You can use this with your code of course.
 ```java
     RippleVisibleImageView imageView = findViewById(R.id.image_view);
-    imageView.setForeground(R.drawable.touch_overlay);
+    imageView.setForegroundResource(R.drawable.touch_overlay);
 ```
 
 ### Import
