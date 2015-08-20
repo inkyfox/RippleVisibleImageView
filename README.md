@@ -21,5 +21,23 @@ You can use this with your code of course.
     RippleVisibleImageView imageView = findViewById(R.id.image_view);
     imageView.setForeground(R.drawable.touch_overlay);
 ```
+# Import
+
+Project build.gradle
+
+```
+repositories {
+    maven {
+        url "https://jitpack.io"
+    }
+}
+```
+
+Module build.gradle
+```
+dependencies {
+	   compile 'com.github.inkyfox:RippleVisibleImageView:1.0.0'
+}
+```
 ###LICENSE
 [LICENSE UNDER MIT](https://github.com/fenjuly/ArrowDownloadButton/raw/master/LICENSE)
