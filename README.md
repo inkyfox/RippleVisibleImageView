@@ -1,4 +1,6 @@
 # RippleVisibleImageView
+[![Release](https://jitpack.io/v/inkyfox/RippleVisibleImageView.svg)](https://jitpack.io/#inkyfox/RippleVisibleImageView)
+
 You can show the touch ripple effect on Android ImageView easily. This is basically ImageView enabled the foreground especially for a hover effect, which also supports RippleDrawable from API21. You can also use this for masking an image with a frame image.
 
 ### ScreenShot
